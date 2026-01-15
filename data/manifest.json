@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ai-for-business",
+    "title": "AI商業應用指南",
+    "url": "pdfs/ai-business.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "ai-productivity-tools",
+    "title": "AI工作效率工具大全",
+    "url": "pdfs/ai-productivity.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "chatgpt-guide",
+    "title": "ChatGPT 完全使用指南",
+    "url": "pdfs/chatgpt-guide.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "midjourney-tutorial",
+    "title": "Midjourney AI繪圖完全教學",
+    "url": "pdfs/midjourney-guide.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "pdf01",
+    "title": "pdf1_如何使用Ai或DeepSeek PDF",
+    "url": "pdfs/pdf01.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "pdf02",
+    "title": "pdf2_如何請AI協助撰寫Python程式 PDF",
+    "url": "pdfs/pdf02.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "pdf03",
+    "title": "pdf3_自我學習_AI_Chat_PDF PDF",
+    "url": "pdfs/pdf03.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "pdf04",
+    "title": "pdf4_架設GitHub免費網站 PDF",
+    "url": "pdfs/pdf04.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "pdf05",
+    "title": "pdf5_Raphael_image_creator PDF",
+    "url": "pdfs/pdf05.pdf",
+    "views": 0,
+    "likes": 0
+  }
+]
